@@ -1,9 +1,4 @@
-//
-//  GPSViewController.m
-//  Zadanie_4
-//
-//  Created by Modzel on 16/11/2021.
-//
+
 
 #import "GPSViewController.h"
 
